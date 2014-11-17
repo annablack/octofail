@@ -1,2 +1,3 @@
 something in there
-Added a new line to this file. Git push-pull purposes.
+Added a new line to this file and some more text. 
+Push-pull purposes and general git play.
